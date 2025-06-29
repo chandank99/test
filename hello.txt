@@ -2,3 +2,7 @@ Hello Git
 I have added this line now
 Adding 2nd line
 Last line for today
+
+
+How are you doing?
+
